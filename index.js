@@ -6,7 +6,7 @@ module.exports = {
 
   ValidationError: purity.ValidationError,
 
-  creatDataType: purity.creatDataType,
+  createDataType: purity.createDataType,
 
   Schmea: function (definition, options) {
     var schema;
