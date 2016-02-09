@@ -8,7 +8,7 @@ module.exports = {
 
   createDataType: purity.createDataType,
 
-  Schmea: function (definition, options) {
+  Schema: function (definition, options) {
     var schema;
     var target;
     var modify;
