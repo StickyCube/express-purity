@@ -1,0 +1,20 @@
+{
+  "name": "express-purity",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "express",
+    "data",
+    "validation"
+  ],
+  "author": "Will Knowles",
+  "license": "MIT",
+  "dependencies": {
+    "ok-js": "^0.2.2",
+    "purity": "^1.0.1"
+  }
+}
